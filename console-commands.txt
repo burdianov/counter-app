@@ -1,3 +1,5 @@
 $ create-react-app counter-app
 $ cd counter-app
 $ npm start
+
+$ npm i bootstrap
