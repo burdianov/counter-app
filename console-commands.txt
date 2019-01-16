@@ -1,5 +1,11 @@
+install Simple React Snippets plugin for Visual Studio Code
+shortcuts:
+  imrc  : import react component
+  cc    : create class
+  
 $ create-react-app counter-app
 $ cd counter-app
 $ npm start
 
 $ npm i bootstrap
+
