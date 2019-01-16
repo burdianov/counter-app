@@ -2,7 +2,9 @@ install Simple React Snippets plugin for Visual Studio Code
 shortcuts:
   imrc  : import react component
   cc    : create class
-  
+
+install Prettier - Code formatter plugin for Visual Studio Code
+
 $ create-react-app counter-app
 $ cd counter-app
 $ npm start
