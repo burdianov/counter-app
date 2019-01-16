@@ -5,6 +5,9 @@ shortcuts:
 
 install Prettier - Code formatter plugin for Visual Studio Code
 
+keyboard shortcuts:
+ctrl+shift+r (on highlighted expression) : refactor
+
 $ create-react-app counter-app
 $ cd counter-app
 $ npm start
