@@ -6,7 +6,8 @@ shortcuts:
 install Prettier - Code formatter plugin for Visual Studio Code
 
 keyboard shortcuts:
-ctrl+shift+r (on highlighted expression) : refactor
+ctrl+shift+r  : (on highlighted expression) : refactor
+F2  : rename the variable
 
 $ create-react-app counter-app
 $ cd counter-app
