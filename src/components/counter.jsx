@@ -9,6 +9,10 @@ class Counter extends Component {
     }
   }
 
+  componentWillUnmount() {
+    console.log("counter unmount");
+  }
+
   render() {
     console.log("counter render");
     return (
